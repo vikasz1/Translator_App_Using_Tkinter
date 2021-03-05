@@ -1,0 +1,1626 @@
+('C:\\Users\\VIKAS '
+ 'MAURYA\\Desktop\\Translator_App_Using_Tkinter\\build\\LanguageTranslator\\PYZ-00.pyz',
+ [('os',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\os.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\selectors.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\signal.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\datetime.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\gettext.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\struct.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('configparser',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\configparser.py',
+   'PYMODULE'),
+  ('pathlib',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\socket.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\random.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('asyncio',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\ssl.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\base64.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\getopt.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('contextvars',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\typing.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\queue.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('runpy',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\runpy.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('zipimport',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\secrets.py',
+   'PYMODULE'),
+  ('hmac',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\_compression.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\netrc.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\quopri.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\optparse.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\numbers.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\tty.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\cmd.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\ast.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\token.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\string.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\bisect.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('csv',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\csv.py',
+   'PYMODULE'),
+  ('tokenize',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\bz2.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\stat.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('googletrans',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\googletrans-3.0.0-py3.8.egg\\googletrans\\__init__.py',
+   'PYMODULE'),
+  ('googletrans.constants',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\googletrans-3.0.0-py3.8.egg\\googletrans\\constants.py',
+   'PYMODULE'),
+  ('googletrans.client',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\googletrans-3.0.0-py3.8.egg\\googletrans\\client.py',
+   'PYMODULE'),
+  ('googletrans.models',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\googletrans-3.0.0-py3.8.egg\\googletrans\\models.py',
+   'PYMODULE'),
+  ('googletrans.gtoken',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\googletrans-3.0.0-py3.8.egg\\googletrans\\gtoken.py',
+   'PYMODULE'),
+  ('httpx',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpx\\__init__.py',
+   'PYMODULE'),
+  ('httpx._transports.wsgi',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpx\\_transports\\wsgi.py',
+   'PYMODULE'),
+  ('httpx._transports',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpx\\_transports\\__init__.py',
+   'PYMODULE'),
+  ('httpx._utils',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpx\\_utils.py',
+   'PYMODULE'),
+  ('httpx._types',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpx\\_types.py',
+   'PYMODULE'),
+  ('httpx._content_streams',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpx\\_content_streams.py',
+   'PYMODULE'),
+  ('json',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('httpx._transports.urllib3',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpx\\_transports\\urllib3.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.packages.six',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\packages\\six.py',
+   'PYMODULE'),
+  ('urllib3.packages',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\packages\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.ssl_match_hostname',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.ssl_match_hostname._implementation',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\_implementation.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('urllib3',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.contrib._appengine_environ',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\contrib\\_appengine_environ.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('idna',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('urllib3.request',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\request.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.util.queue',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\urllib3\\util\\queue.py',
+   'PYMODULE'),
+  ('httpx._transports.asgi',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpx\\_transports\\asgi.py',
+   'PYMODULE'),
+  ('sniffio',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\sniffio\\__init__.py',
+   'PYMODULE'),
+  ('sniffio._impl',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\sniffio\\_impl.py',
+   'PYMODULE'),
+  ('sniffio._version',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\sniffio\\_version.py',
+   'PYMODULE'),
+  ('httpx._status_codes',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpx\\_status_codes.py',
+   'PYMODULE'),
+  ('httpx._models',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpx\\_models.py',
+   'PYMODULE'),
+  ('httpx._decoders',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpx\\_decoders.py',
+   'PYMODULE'),
+  ('rfc3986',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\rfc3986\\__init__.py',
+   'PYMODULE'),
+  ('rfc3986.parseresult',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\rfc3986\\parseresult.py',
+   'PYMODULE'),
+  ('rfc3986.api',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\rfc3986\\api.py',
+   'PYMODULE'),
+  ('rfc3986.iri',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\rfc3986\\iri.py',
+   'PYMODULE'),
+  ('rfc3986.uri',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\rfc3986\\uri.py',
+   'PYMODULE'),
+  ('rfc3986._mixin',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\rfc3986\\_mixin.py',
+   'PYMODULE'),
+  ('rfc3986.validators',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\rfc3986\\validators.py',
+   'PYMODULE'),
+  ('rfc3986.normalizers',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\rfc3986\\normalizers.py',
+   'PYMODULE'),
+  ('rfc3986.misc',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\rfc3986\\misc.py',
+   'PYMODULE'),
+  ('rfc3986.abnf_regexp',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\rfc3986\\abnf_regexp.py',
+   'PYMODULE'),
+  ('rfc3986.exceptions',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\rfc3986\\exceptions.py',
+   'PYMODULE'),
+  ('rfc3986.compat',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\rfc3986\\compat.py',
+   'PYMODULE'),
+  ('chardet',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\__init__.py',
+   'PYMODULE'),
+  ('chardet.version',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\version.py',
+   'PYMODULE'),
+  ('chardet.universaldetector',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\universaldetector.py',
+   'PYMODULE'),
+  ('chardet.sbcsgroupprober',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\sbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.langturkishmodel',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\langturkishmodel.py',
+   'PYMODULE'),
+  ('chardet.hebrewprober',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\hebrewprober.py',
+   'PYMODULE'),
+  ('chardet.charsetprober',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\charsetprober.py',
+   'PYMODULE'),
+  ('chardet.langhebrewmodel',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\langhebrewmodel.py',
+   'PYMODULE'),
+  ('chardet.langthaimodel',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\langthaimodel.py',
+   'PYMODULE'),
+  ('chardet.langbulgarianmodel',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\langbulgarianmodel.py',
+   'PYMODULE'),
+  ('chardet.langgreekmodel',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\langgreekmodel.py',
+   'PYMODULE'),
+  ('chardet.langcyrillicmodel',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\langcyrillicmodel.py',
+   'PYMODULE'),
+  ('chardet.sbcharsetprober',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\sbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.mbcsgroupprober',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\mbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.euctwprober',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\euctwprober.py',
+   'PYMODULE'),
+  ('chardet.mbcssm',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\mbcssm.py',
+   'PYMODULE'),
+  ('chardet.chardistribution',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\chardistribution.py',
+   'PYMODULE'),
+  ('chardet.jisfreq',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\jisfreq.py',
+   'PYMODULE'),
+  ('chardet.big5freq',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\big5freq.py',
+   'PYMODULE'),
+  ('chardet.gb2312freq',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\gb2312freq.py',
+   'PYMODULE'),
+  ('chardet.euckrfreq',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\euckrfreq.py',
+   'PYMODULE'),
+  ('chardet.euctwfreq',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\euctwfreq.py',
+   'PYMODULE'),
+  ('chardet.codingstatemachine',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\codingstatemachine.py',
+   'PYMODULE'),
+  ('chardet.mbcharsetprober',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\mbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.big5prober',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\big5prober.py',
+   'PYMODULE'),
+  ('chardet.cp949prober',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\cp949prober.py',
+   'PYMODULE'),
+  ('chardet.euckrprober',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\euckrprober.py',
+   'PYMODULE'),
+  ('chardet.gb2312prober',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\gb2312prober.py',
+   'PYMODULE'),
+  ('chardet.eucjpprober',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\eucjpprober.py',
+   'PYMODULE'),
+  ('chardet.jpcntx',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\jpcntx.py',
+   'PYMODULE'),
+  ('chardet.sjisprober',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\sjisprober.py',
+   'PYMODULE'),
+  ('chardet.utf8prober',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\utf8prober.py',
+   'PYMODULE'),
+  ('chardet.latin1prober',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\latin1prober.py',
+   'PYMODULE'),
+  ('chardet.escprober',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\escprober.py',
+   'PYMODULE'),
+  ('chardet.escsm',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\escsm.py',
+   'PYMODULE'),
+  ('chardet.enums',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\enums.py',
+   'PYMODULE'),
+  ('chardet.charsetgroupprober',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\charsetgroupprober.py',
+   'PYMODULE'),
+  ('chardet.compat',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\chardet\\compat.py',
+   'PYMODULE'),
+  ('cgi',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\cgi.py',
+   'PYMODULE'),
+  ('httpx._exceptions',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpx\\_exceptions.py',
+   'PYMODULE'),
+  ('httpx._config',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpx\\_config.py',
+   'PYMODULE'),
+  ('certifi',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\resources.py',
+   'PYMODULE'),
+  ('httpx._client',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpx\\_client.py',
+   'PYMODULE'),
+  ('hstspreload',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\hstspreload\\__init__.py',
+   'PYMODULE'),
+  ('httpx._auth',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpx\\_auth.py',
+   'PYMODULE'),
+  ('httpx._api',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpx\\_api.py',
+   'PYMODULE'),
+  ('httpx.__version__',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpx\\__version__.py',
+   'PYMODULE'),
+  ('httpcore',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpcore\\__init__.py',
+   'PYMODULE'),
+  ('httpcore._sync.http_proxy',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpcore\\_sync\\http_proxy.py',
+   'PYMODULE'),
+  ('httpcore._sync',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpcore\\_sync\\__init__.py',
+   'PYMODULE'),
+  ('httpcore._sync.connection',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpcore\\_sync\\connection.py',
+   'PYMODULE'),
+  ('httpcore._sync.http11',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpcore\\_sync\\http11.py',
+   'PYMODULE'),
+  ('h11',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\h11\\__init__.py',
+   'PYMODULE'),
+  ('h11._version',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\h11\\_version.py',
+   'PYMODULE'),
+  ('h11._util',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\h11\\_util.py',
+   'PYMODULE'),
+  ('h11._state',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\h11\\_state.py',
+   'PYMODULE'),
+  ('h11._events',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\h11\\_events.py',
+   'PYMODULE'),
+  ('h11._abnf',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\h11\\_abnf.py',
+   'PYMODULE'),
+  ('h11._connection',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\h11\\_connection.py',
+   'PYMODULE'),
+  ('h11._writers',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\h11\\_writers.py',
+   'PYMODULE'),
+  ('h11._receivebuffer',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\h11\\_receivebuffer.py',
+   'PYMODULE'),
+  ('h11._readers',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\h11\\_readers.py',
+   'PYMODULE'),
+  ('h11._headers',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\h11\\_headers.py',
+   'PYMODULE'),
+  ('httpcore._sync.http2',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpcore\\_sync\\http2.py',
+   'PYMODULE'),
+  ('h2.settings',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\h2\\settings.py',
+   'PYMODULE'),
+  ('h2',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\h2\\__init__.py',
+   'PYMODULE'),
+  ('h2.errors',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\h2\\errors.py',
+   'PYMODULE'),
+  ('hyperframe.frame',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\hyperframe\\frame.py',
+   'PYMODULE'),
+  ('hyperframe',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\hyperframe\\__init__.py',
+   'PYMODULE'),
+  ('hyperframe.flags',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\hyperframe\\flags.py',
+   'PYMODULE'),
+  ('hyperframe.exceptions',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\hyperframe\\exceptions.py',
+   'PYMODULE'),
+  ('h2.exceptions',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\h2\\exceptions.py',
+   'PYMODULE'),
+  ('h2.config',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\h2\\config.py',
+   'PYMODULE'),
+  ('h2.events',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\h2\\events.py',
+   'PYMODULE'),
+  ('h2.connection',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\h2\\connection.py',
+   'PYMODULE'),
+  ('h2.windows',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\h2\\windows.py',
+   'PYMODULE'),
+  ('h2.utilities',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\h2\\utilities.py',
+   'PYMODULE'),
+  ('hpack',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\hpack\\__init__.py',
+   'PYMODULE'),
+  ('hpack.struct',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\hpack\\struct.py',
+   'PYMODULE'),
+  ('h2.stream',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\h2\\stream.py',
+   'PYMODULE'),
+  ('h2.frame_buffer',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\h2\\frame_buffer.py',
+   'PYMODULE'),
+  ('hpack.exceptions',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\hpack\\exceptions.py',
+   'PYMODULE'),
+  ('hpack.hpack',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\hpack\\hpack.py',
+   'PYMODULE'),
+  ('hpack.huffman_table',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\hpack\\huffman_table.py',
+   'PYMODULE'),
+  ('hpack.huffman_constants',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\hpack\\huffman_constants.py',
+   'PYMODULE'),
+  ('hpack.huffman',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\hpack\\huffman.py',
+   'PYMODULE'),
+  ('hpack.compat',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\hpack\\compat.py',
+   'PYMODULE'),
+  ('hpack.table',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\hpack\\table.py',
+   'PYMODULE'),
+  ('httpcore._backends.auto',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpcore\\_backends\\auto.py',
+   'PYMODULE'),
+  ('httpcore._backends',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpcore\\_backends\\__init__.py',
+   'PYMODULE'),
+  ('httpcore._backends.trio',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpcore\\_backends\\trio.py',
+   'PYMODULE'),
+  ('httpcore._backends.asyncio',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpcore\\_backends\\asyncio.py',
+   'PYMODULE'),
+  ('httpcore._backends.sync',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpcore\\_backends\\sync.py',
+   'PYMODULE'),
+  ('httpcore._backends.base',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpcore\\_backends\\base.py',
+   'PYMODULE'),
+  ('httpcore._utils',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpcore\\_utils.py',
+   'PYMODULE'),
+  ('httpcore._types',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpcore\\_types.py',
+   'PYMODULE'),
+  ('httpcore._sync.connection_pool',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpcore\\_sync\\connection_pool.py',
+   'PYMODULE'),
+  ('httpcore._threadlock',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpcore\\_threadlock.py',
+   'PYMODULE'),
+  ('httpcore._sync.base',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpcore\\_sync\\base.py',
+   'PYMODULE'),
+  ('httpcore._exceptions',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpcore\\_exceptions.py',
+   'PYMODULE'),
+  ('httpcore._async.http_proxy',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpcore\\_async\\http_proxy.py',
+   'PYMODULE'),
+  ('httpcore._async',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpcore\\_async\\__init__.py',
+   'PYMODULE'),
+  ('httpcore._async.connection',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpcore\\_async\\connection.py',
+   'PYMODULE'),
+  ('httpcore._async.http11',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpcore\\_async\\http11.py',
+   'PYMODULE'),
+  ('httpcore._async.http2',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpcore\\_async\\http2.py',
+   'PYMODULE'),
+  ('httpcore._async.connection_pool',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpcore\\_async\\connection_pool.py',
+   'PYMODULE'),
+  ('httpcore._async.base',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\httpcore\\_async\\base.py',
+   'PYMODULE'),
+  ('googletrans.utils',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\googletrans-3.0.0-py3.8.egg\\googletrans\\utils.py',
+   'PYMODULE'),
+  ('googletrans.urls',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\googletrans-3.0.0-py3.8.egg\\googletrans\\urls.py',
+   'PYMODULE'),
+  ('tkinter.ttk',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\tkinter\\ttk.py',
+   'PYMODULE'),
+  ('tkinter',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'c:\\users\\vikas '
+   'maurya\\appdata\\local\\programs\\python\\python38\\lib\\tkinter\\constants.py',
+   'PYMODULE')])

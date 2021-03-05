@@ -1,0 +1,6 @@
+('C:\\Users\\VIKAS '
+ 'MAURYA\\Desktop\\Translator_App_Using_Tkinter\\build\\LanguageTranslator\\googletrans-3.0.0-py3.8.egg',
+ None,
+ {'*.cp38-win_amd64.pyd', 'EGG-INFO', '*.pyc', '*.pyd', '*.py', '*.pyw'},
+ 'DATA',
+ [])
