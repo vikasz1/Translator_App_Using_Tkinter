@@ -8,6 +8,7 @@ root.geometry('1080x400')
 root.resizable(0, 0)
 root.title("Virtual Language Translator")
 root.config(bg='light blue')
+root.wm_iconbitmap('lang.ico')
 
 # heading
 Label(root, text="LANGUAGE TRANSLATOR", font="arial 20 bold", bg='cyan').pack(side='top')
@@ -25,13 +26,15 @@ Output_text.place(x=600, y=100)
 ##################
 #language selection dropdown menu
 language = list(LANGUAGES.values())
-src_lang = ttk.Combobox(root, values=language, width=22)
+src_lang = ttk.Combobox(root, values=language, width=22,state = 'readonly')
+src_lang.current(language.index("english"))
 src_lang.place(x=20, y=60)
-src_lang.set('Input Language')
+# src_lang.set('Input Language')
 
-dest_lang = ttk.Combobox(root, values=language, width=22)
+dest_lang = ttk.Combobox(root, values=language, width=22,state='readonly')
 dest_lang.place(x=890, y=60)
-dest_lang.set('Output Language')
+dest_lang.current(language.index("hindi"))
+# dest_lang.set('Output Language')
 
 
 ########################################  Define function #######
